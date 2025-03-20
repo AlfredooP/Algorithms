@@ -47,5 +47,5 @@ Counting Sort is a **non-comparison-based sorting algorithm** that **counts the 
 3. Place the elements in their correct position.  
 
 ## References: 
-[geeksforgeeks - Counting Sort – Data Structures and Algorithms Tutorials](https://www.geeksforgeeks.org/counting-sort/)
-[W3Schools - DSA Counting Sort](https://www.w3schools.com/dsa/dsa_algo_countingsort.php)
+- [geeksforgeeks - Counting Sort – Data Structures and Algorithms Tutorials](https://www.geeksforgeeks.org/counting-sort/)
+- [W3Schools - DSA Counting Sort](https://www.w3schools.com/dsa/dsa_algo_countingsort.php)
