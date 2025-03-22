@@ -46,8 +46,6 @@ Counting Sort is a **non-comparison-based sorting algorithm** that **counts the 
 2. Calculate the cumulative sum.  
 3. Place the elements in their correct position.  
 
----
-
-## References:
-- []
-
+## References: 
+- [geeksforgeeks - Counting Sort – Data Structures and Algorithms Tutorials](https://www.geeksforgeeks.org/counting-sort/)
+- [W3Schools - DSA Counting Sort](https://www.w3schools.com/dsa/dsa_algo_countingsort.php)
