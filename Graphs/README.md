@@ -13,12 +13,14 @@ BFS is a fundamental **graph tranversal algorithm**. It begins with a node, the 
 ---
 
 ## **Visual Representation:**
-![BFS Visualization](./Sources/BFS.gif)
+![BFS Visualization](Sources/BFS.gif)
 
 ---
 
 ## **Time Complexity:**
+
 The time complexity of BFS is O(V + E), where V is the number of vertices and E is the number of edges in the graph. 
+
 ---
 
 ## How does it work?
