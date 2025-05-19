@@ -25,12 +25,14 @@ The time complexity of BFS is O(V + E), where V is the number of vertices and E 
 
 ## How does it work?
 1- Initialization: Enqueue the given source vertex into a queue and mark it as visited.
+
 2- Exploration: While the queue is not empty:
     -Dequeue a node from the queue and visit it (e.g., print its value).
     -For each unvisited neighbor of the dequeued node:
     -Enqueue the neighbor into the queue.
     -Mark the neighbor as visited.
+
 3- Termination: Repeat step 2 until the queue is empty.
 
 ## References: 
-- [geeksforgeeks - Breadth First Search or BFS for a Graph](https://www.geeksforgeeks.org/counting-sort/)
+- [geeksforgeeks - Breadth First Search or BFS for a Graph](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
