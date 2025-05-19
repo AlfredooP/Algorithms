@@ -13,7 +13,7 @@ BFS is a fundamental **graph tranversal algorithm**. It begins with a node, the 
 ---
 
 ## **Visual Representation:**
-![BFS Visualization](/Sources/BFS.gif)
+![BFS Visualization](./Sources/BFS.gif)
 
 ---
 
